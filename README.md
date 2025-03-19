@@ -31,20 +31,13 @@ Welcome to my GitHub portfolio! I'm passionate about building intelligent system
 
 ## 💻 Tech Stack  
 ### **Languages**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
-![Golang](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 
 ### **Frameworks & Tools**  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=spring)  
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)  
-![MLflow](https://img.shields.io/badge/-MLflow-blue?style=flat&logo=mlflow)  
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=spring)  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)  ![MLflow](https://img.shields.io/badge/-MLflow-blue?style=flat&logo=mlflow)  
 
 ### **AI & Data Science**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow)  
-![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy)  
-![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat&logo=scipy)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow)  ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy)  ![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat&logo=scipy)  
 
 ---
 
