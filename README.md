@@ -14,8 +14,8 @@ Welcome to my GitHub portfolio! I'm passionate about building intelligent system
 ---
 
 ## 🛠️ Projects  
-### 🚀 **1. Real-Time Collaborative Text Editor** (WebSockets + Distributed Systems)  
-🔹 Built using **React, Golang, WebSockets** for seamless collaboration.  
+### 🚀 **1. Real-Time Collaborative Whiteboard** (WebSockets + Distributed Systems)  
+🔹 Built using ** Golang, WebSockets** for seamless collaboration.  
 🔹 Supports **real-time editing, fault tolerance**, and **multi-user access**.  
 
 ### 🏦 **2. Fraud Detection System** (AI-Powered)  
