@@ -9,25 +9,9 @@ Welcome to my GitHub portfolio! I'm passionate about building intelligent system
 - 🎓 **BSc Student** at Addis Ababa Institute of Technology  
 - 💡 **Specialized in:** AI, Machine Learning, and Distributed Systems  
 - 💻 **Tech Stack:** Python, Golang, JavaScript (React, Node.js), Spring Boot  
-- ⚡ **Passionate about:** AI-driven solutions, Fraud Detection, and Object Detection  
-
----
-
-## 🛠️ Projects  
-### 🚀 **1. Real-Time Collaborative Whiteboard** (WebSockets + Distributed Systems)  
-🔹 Built using ** Golang, WebSockets** for seamless collaboration.  
-🔹 Supports **real-time editing, fault tolerance**, and **multi-user access**.  
-
-### 🏦 **2. Fraud Detection System** (AI-Powered)  
-🔹 Designed for **e-commerce & banking transactions** at **Adey Innovations Inc.**  
-🔹 Uses **ML models (LSTM, CNN, Random Forest, Gradient Boosting)** for fraud detection.  
-🔹 **Built with:** Python, Flask, MLflow, Docker, Dash for visualization.  
-
-### 🤖 **3. Object Detection & Text Extraction from Telegram**  
-🔹 Uses **YOLO + NLP (BERT, XLM-Roberta, Afroxmlr)** for Amharic entity extraction.  
-🔹 Automates product listing & price extraction from **Telegram e-commerce channels**.  
-
----
+- ⚡ **Passionate about:** AI-driven solutions, Fraud Detection, and Object Detection
+  
+===
 
 ## 💻 Tech Stack  
 ### **Languages**  
