@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sosina Sisay Melese! 🚀  
+# 👋 Hi, I'm Sosina Sisay ! 🚀  
 ## Software Engineer | AI Enthusiast | Full-Stack Developer  
 
 Welcome to my GitHub portfolio! I'm passionate about building intelligent systems, scalable applications, and real-time distributed solutions.  
