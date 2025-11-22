@@ -5,8 +5,11 @@
 
 <!-- ✨ ANIMATED TYPING INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=000000&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Sosina+Sisay!;Software+Engineer+|+AI+Enthusiast;Full-Stack+Developer;Distributed+Systems+%26+AI+Engineer" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=32&color=000000&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Sosina+Sisay!;Software+Engineer;AI+Enthusiast;Full-Stack+Developer;Natural+Language+Processing+Expert;ML+Engineer;Generative+AI+Engineer" 
+  />
 </h1>
+
 
 <!-- ⚡ GLOWING CODING GIF -->
 <p align="right">
@@ -19,7 +22,7 @@
 ---
 
 # 🚀 About Me  
-- 🎓 **BSc Student @ AAiT**  
+- 🎓 **BSc Student @ Addis Ababa University**  
 - 🤖 **AI & Machine Learning Enthusiast**  
 - 🕸️ Full-Stack Developer — Python, Golang, React, Node.js  
 - 🔥 Building: **Fraud Detection**, **Object Detection**, **Distributed Systems**  
@@ -38,6 +41,9 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=chainlink&logoColor=00eaff&color=000" />
+<img src="https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface&logoColor=ffcc00&color=000" />
+
 <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=0ff&labelColor=111&color=000" />
 <img src="https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=00eaff&color=000" />
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e&color=000" />
@@ -55,7 +61,7 @@
 
 
 # 🌐 Connect with Me
-- Portfolio: **https://portfolio-sjtx.vercel.app/**
+- Portfolio: **https://sosinasisay.netlify.app/**
 - LinkedIn: **https://www.linkedin.com/in/sosina-sisay-1a3245232/**
 - Email: **sosinasisay29@gmail.com**
 
