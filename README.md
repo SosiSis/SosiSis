@@ -1,33 +1,64 @@
-# 👋 Hi, I'm Sosina Sisay ! 🚀  
-## Software Engineer | AI Enthusiast | Full-Stack Developer  
+<!-- 🎞️ ANIMATED GIF HEADER -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/27231/screenshots/2432051/welcome.gif" width="100%" />
+</p>
 
-Welcome to my GitHub portfolio! I'm passionate about building intelligent systems, scalable applications, and real-time distributed solutions.  
+<!-- ✨ ANIMATED TYPING INTRO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=000000&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Sosina+Sisay!;Software+Engineer+|+AI+Enthusiast;Full-Stack+Developer;Distributed+Systems+%26+AI+Engineer" />
+</h1>
 
----
+<!-- ⚡ GLOWING CODING GIF -->
+<p align="right">
+<img align="right" alt="Female Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5pdnFja3Z2dHBuaXYzYWQ1M3Z6ZXM4anNwMzJwZ2RxcWV2YXVueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" style="border-radius:20px; box-shadow:0 0 20px #00eaff;">
 
-## 🔥 About Me  
-- 🎓 **BSc Student** at Addis Ababa Institute of Technology  
-- 💡 **Specialized in:** AI, Machine Learning, and Distributed Systems  
-- 💻 **Tech Stack:** Python, Golang, JavaScript (React, Node.js), Spring Boot  
-- ⚡ **Passionate about:** AI-driven solutions, Fraud Detection, and Object Detection
-  
-===
 
-## 💻 Tech Stack  
-### **Languages**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 
-### **Frameworks & Tools**  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=spring)  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)  ![MLflow](https://img.shields.io/badge/-MLflow-blue?style=flat&logo=mlflow)  
-
-### **AI & Data Science**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow)  ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy)  ![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat&logo=scipy)  
+</p>
 
 ---
 
-## 📫 Connect with Me  
-🌍 **Website:** [https://portfolio-sjtx.vercel.app/]  
-🔗 **LinkedIn:** [linkedin.com/in/sosina-sisay-1a3245232/](https://www.linkedin.com/in/sosina-sisay-1a3245232/)  
-✉️ **Email:** [sosinasisay29@gmail.com](mailto:sosinasisay29@gmail.com)  
+# 🚀 About Me  
+- 🎓 **BSc Student @ AAiT**  
+- 🤖 **AI & Machine Learning Enthusiast**  
+- 🕸️ Full-Stack Developer — Python, Golang, React, Node.js  
+- 🔥 Building: **Fraud Detection**, **Object Detection**, **Distributed Systems**  
+- ⚡ Passion: Clean code, scalable backend, intelligent systems  
 
-💡 **Let's collaborate and build something amazing!** 🚀  
+---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&width=900&height=45&lines=Python+|+Golang+|+JavaScript+|+React+|+Node.js+|+Spring+Boot+|+Machine+Learning+|+Docker+|+TensorFlow+|+NumPy+|+Pandas+|+AI+Engineering+|+Distributed+Systems" />
+</p>
+
+---
+
+# ⚡ Languages & Tools 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=0ff&labelColor=111&color=000" />
+<img src="https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=00eaff&color=000" />
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e&color=000" />
+<br/>
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00eaff&color=000" />
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=00ff7f&color=000" />
+<img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=00ff7f&color=000" />
+<br/>
+<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=00eaff&color=000" />
+<img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=ff6f00&color=000" />
+<img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=00eaff&color=000" />
+
+</p>
+
+
+
+# 🌐 Connect with Me
+- Portfolio: **https://portfolio-sjtx.vercel.app/**
+- LinkedIn: **https://www.linkedin.com/in/sosina-sisay-1a3245232/**
+- Email: **sosinasisay29@gmail.com**
+
+---
+
+<h2 align="center">✨ Let's build intelligent systems together 🚀</h2>
