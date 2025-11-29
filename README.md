@@ -43,7 +43,7 @@
 
 <br/>
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00eaff&color=000" />
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=next.js&logoColor=00eaff&color=000" />
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=00eaff&color=000" />
 <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=00ff7f&color=000" />
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e&color=000" />
 <br/>
