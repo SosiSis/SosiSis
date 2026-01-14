@@ -66,7 +66,7 @@
 
 
 # 🌐 Connect with Me
-- Portfolio: **https://portfolio-sjtx.vercel.app/**
+- Portfolio: **https://sosinasisay.netlify.app/**
 - LinkedIn: **https://www.linkedin.com/in/sosina-sisay-1a3245232/**
 - Email: **sosinasisay29@gmail.com**
 
