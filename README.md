@@ -22,7 +22,7 @@
 ---
 
 # 🚀 About Me  
-- 🎓 **BSc Student @ Addis Ababa University**  
+- 🎓 **BSc Graduate @ Addis Ababa University**  
 - 🤖 **AI & Machine Learning Enthusiast**  
 - 🕸️ Full-Stack Developer —React, Next.js Node.js,  Python, Golang,  
 - 🔥 Building: **Fraud Detection**, **Object Detection**, **Distributed Systems**  
